@@ -36,7 +36,7 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 
 ### Promotional Video:
 <a href='https://www.youtube.com/watch?v=LI2rAvHT0Tk'>
-    <img height=175 src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
+    <img height=200 width=100 src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
 </a>
 
 ## 🏆 My Stats:
