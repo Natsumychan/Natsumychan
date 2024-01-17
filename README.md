@@ -6,11 +6,12 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 
 </div>
 
--  🔭 I’m currently subscribed to [No Country](https://www.nocountry.tech/) where they are [preparing junior developers in simulations](https://discord.com/channels/1116055592054824960/1144331587425665045).
--  👀 I’m interested in learning programming to become a front-end developer
--  🌱 I’m currently learning JavaScript, React, MySQL and Git
--  💞️ I’m looking to collaborate on Web projects and also looking for my first job in the IT area
--  :space_invader: My hobbies are playing videogames, reading about fantasy and sci-fi stories,  and walking with my dog.
+- 🔭 I’m currently subscribed to [No Country](https://www.nocountry.tech/) where they are [preparing junior developers in simulations](https://discord.gg/5MTzmsNXvx).
+
+- 👀 I’m interested in learning programming to become a front-end developer
+- 🌱 I’m currently learning JavaScript, React, MySQL and Git
+- :handshake: I’m looking to collaborate on Web projects and also looking for my first job in the IT area
+- :space_invader: My hobbies are playing videogames, reading about fantasy and sci-fi stories, and walking with my dog.
 
 <div align="center">
 
@@ -37,6 +38,7 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 </a>
 
 ### Promotional Video:
+
 <a href='https://www.youtube.com/watch?v=LI2rAvHT0Tk'>
     <img height=500 width=700 src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
 </a>
