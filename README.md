@@ -31,12 +31,12 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 ### <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'> Animal Preservation - LATAM </a>
 
 <a href='https://c15-57-ft-react-agregarback.vercel.app/'>
-    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/BannerPA.png' alt='Promotional Image'/>
+    <img height=175 src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/BannerPA.png' alt='Promotional Image'/>
 </a>
 
-#### Promotional Video:
+### Promotional Video:
 <a href='https://www.youtube.com/watch?v=LI2rAvHT0Tk'>
-    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
+    <img height=175 src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
 </a>
 
 ## 🏆 My Stats:
