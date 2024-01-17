@@ -4,12 +4,6 @@
 
 Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [Pinterest](https://www.pinterest.com/)
 
-## 📫 You Can Contact Me By:
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dianaczapata1) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-casta%C3%B1o-zapata-aba84284) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dianaczapata@gmail.com?subject=Hello%20Diana,%20From%20Github)
-
 </div>
 
 -  🔭 I’m currently subscribed to [No Country](https://www.nocountry.tech/) where they are [preparing junior developers in simulations](https://discord.com/channels/1116055592054824960/1144331587425665045).
@@ -19,6 +13,12 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 -  :space_invader: My hobbies are playing videogames, reading about fantasy and sci-fi stories,  and walking with my dog.
 
 <div align="center">
+
+## 📫 You Can Contact Me By:
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dianaczapata1) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-casta%C3%B1o-zapata-aba84284) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dianaczapata@gmail.com?subject=Hello%20Diana,%20From%20Github)
 
 ## 💡 A Quote:
 
