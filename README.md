@@ -4,16 +4,14 @@
 
 Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [Pinterest](https://www.pinterest.com/)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dianaczapata1) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-casta%C3%B1o-zapata-aba84284) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dianaczapata@gmail.com?subject=Hello%20Diana,%20From%20Github)
 
 </div>
 
 -  👋 Hi, I’m Diana Castaño (Github username @Natsumychan)
 -  👀 I’m interested in learning programming to become a front-end developer
--  :space_invader: My hobbies are play videogames and reading fantasy and sci-fi stories
--  🌱 I’m currently learning JavaScript, React, mysql and Git
+-  🌱 I’m currently learning JavaScript, React, MySQL and Git
 -  💞️ I’m looking to collaborate on Web projects and also looking for my first job in the IT area
--  📫 How to reach me?
--  My LinkedIn: https://www.linkedin.com/in/diana-castaño-zapata-aba84284
+-  :space_invader: My hobbies are playing videogames, reading about fantasy and sci-fi stories,  and walking with my dog.
