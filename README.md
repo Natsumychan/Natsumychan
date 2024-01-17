@@ -4,6 +4,8 @@
 
 Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [Pinterest](https://www.pinterest.com/)
 
+## 📫 You Can Contact Me By:
+
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dianaczapata1) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diana-casta%C3%B1o-zapata-aba84284) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dianaczapata@gmail.com?subject=Hello%20Diana,%20From%20Github)
@@ -26,7 +28,7 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=html,css,js,react,git,figma,tailwind)](https://skillicons.dev)
 
-## 📽️ My Most Recent Project
+## 📽️ My Most Recent Project:
 
 ### <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'> Animal Preservation - LATAM </a>
 
