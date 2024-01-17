@@ -15,3 +15,15 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 -  🌱 I’m currently learning JavaScript, React, MySQL and Git
 -  💞️ I’m looking to collaborate on Web projects and also looking for my first job in the IT area
 -  :space_invader: My hobbies are playing videogames, reading about fantasy and sci-fi stories,  and walking with my dog.
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=html,css,js,react,git,figma,tailwind)](https://skillicons.dev)
+
+</div>
