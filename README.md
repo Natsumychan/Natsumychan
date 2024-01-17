@@ -33,4 +33,11 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsumychan&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+## 🎮 When I'm AFK:
+
+![PlayStation 3](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) &nbsp;
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 </div>
