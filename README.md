@@ -10,7 +10,7 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 
 </div>
 
--  👋 Hi, I’m Diana Castaño (Github username @Natsumychan)
+-  🔭 I’m currently subscribed to [No Country](https://www.nocountry.tech/) where they were [prepare junior developers in simulations](https://discord.com/channels/1116055592054824960/1144331587425665045).
 -  👀 I’m interested in learning programming to become a front-end developer
 -  🌱 I’m currently learning JavaScript, React, MySQL and Git
 -  💞️ I’m looking to collaborate on Web projects and also looking for my first job in the IT area
@@ -25,5 +25,12 @@ Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [P
 ## 💻 My Tech Stack:
 
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=html,css,js,react,git,figma,tailwind)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Natsumychan&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsumychan&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
 
 </div>
