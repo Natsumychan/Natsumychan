@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Diana!](assets/no%20adventure%20here_%20.gif)](https://github.com/Natsumychan)
+[![Hello World, I'm Diana!](assets/no%20adventure%20here_.gif)](https://github.com/Natsumychan)
 
 Background GIF by [ka3l](https://co.pinterest.com/pin/578571883394447043/) on [Pinterest](https://www.pinterest.com/)
 
